@@ -1,2 +1,3 @@
 init
 first
+second new master
